@@ -1,0 +1,6 @@
+{
+  "name": "Remix: ACHP: Adversarial Claim \u0026 Honesty Probe",
+  "description": "A production-grade multi-agent LLM Council for automated claim verification, bias detection, and narrative integrity analysis. Evaluate factual and narrative claims via a 7-agent debate pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
